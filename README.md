@@ -1,1 +1,1 @@
-# SentixAI
+# GooAI
